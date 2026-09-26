@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VoiceHand</title>
+        <item>
+            <title>1.8.9</title>
+            <pubDate>Sat, 26 Sep 2026 07:23:45 +0500</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>1.8.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/VoiceHand-1.8.9-52.zip" length="6300878" type="application/octet-stream" sparkle:edSignature="oG/ANJJTUPHVphBe0zOltcRxa3KXFwV1EeWP2rMJLek1lH6N3Do0v3FajOA6tUST4KOtg5T4XRV7jltcgZI/Cg=="/>
+        </item>
+    </channel>
+</rss>
