@@ -4,6 +4,17 @@
         <title>VoiceHand</title>
         <item>
             <title>1.8.9</title>
+            <pubDate>Sat, 26 Sep 2026 12:50:55 +0500</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.8.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/VoiceHand-1.8.9-53.zip" length="22834825" type="application/octet-stream" sparkle:edSignature="4PFGgBPqUUr/6yiZy8FM4p3rEdFjT1dr/a5XVAVjSqpVXqhAoOV8KjnZeSfjJAPkbL9T7lnD68KMxGzz5St1Dw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/Sayonic53-52.delta" sparkle:deltaFrom="52" length="14911742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EP0cWKIm4sOJ06PhDcF4IAhPS47y59Mcb+OLBdoduDhSpsX8cDyPJCUvTtST31CfAONsGMu++VDOwL/GO+mfDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.8.9</title>
             <pubDate>Sat, 26 Sep 2026 07:23:45 +0500</pubDate>
             <sparkle:version>52</sparkle:version>
             <sparkle:shortVersionString>1.8.9</sparkle:shortVersionString>
