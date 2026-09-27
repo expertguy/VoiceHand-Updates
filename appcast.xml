@@ -3,6 +3,19 @@
     <channel>
         <title>VoiceHand</title>
         <item>
+            <title>1.9.3</title>
+            <pubDate>Sun, 27 Sep 2026 17:16:10 +0500</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/VoiceHand-1.9.3-57.zip" length="22635248" type="application/octet-stream" sparkle:edSignature="eUmycpasMuaA5QdzGRvxDD6DJXzxKb6Vhufuu5Nu6VltHyqEvDEHgmQVMXeh184p46eLA9L8JTxEu+dknfkUBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/Sayonic57-56.delta" sparkle:deltaFrom="56" length="557178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f8kd1aEOWYZTKThRP7z3Je6H+BhIHoX8OFaJCLTu0sHIEE2j47a/bavuIFJb8fUm4jHl2EPCiFjUmkuN/7qrBw=="/>
+                <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/Sayonic57-55.delta" sparkle:deltaFrom="55" length="563518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ivzipbOyq9DToTJwjJ107Oepszn56KVpkBUbwRB8Lo6TkeU8COp/oL54uHmw5MA72ZuUUP4hnGSmpbJu6jU1Bg=="/>
+                <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/Sayonic57-54.delta" sparkle:deltaFrom="54" length="1425942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z7VRG4dghijec8RLB0t2yMlBDy4r48w7l3f1FberANialEz66XDYoNaTKhPVcW+zny+f3tyZny+P+9p9gJQPCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.2</title>
             <pubDate>Sun, 27 Sep 2026 17:02:05 +0500</pubDate>
             <sparkle:version>56</sparkle:version>
@@ -26,18 +39,6 @@
                 <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/Sayonic55-54.delta" sparkle:deltaFrom="54" length="1415794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lDh4Ho53doe3Dxu0nLg9Pb3oS+nM+C+7Y1/5zt8RC5KiDm++/mZKqs0AG7tb4SLjTstN9QvI5LlZCV+B+AZ/CQ=="/>
                 <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/Sayonic55-53.delta" sparkle:deltaFrom="53" length="1829310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wiUfFkqmlpuz7DgvoHu38sXyQ14Oe/B4xdLjvOgySmEKfZqdDzpuxvYiO0o7xmn8nCI7WdDY7/3/h6tSynjTAA=="/>
                 <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/Sayonic55-52.delta" sparkle:deltaFrom="52" length="14865974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bKzpGusri8WFEw+bZw37rQ1jWHyJvHHnyRYywakgDCei7OBrvcjTbclauDpPJGr9bse8Q/XvCgz2lYumtKx8DA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.9.0</title>
-            <pubDate>Sun, 27 Sep 2026 04:46:29 +0500</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/VoiceHand-1.9.0-54.zip" length="22308268" type="application/octet-stream" sparkle:edSignature="rYNR6sciRRKc6ybM5Opw9edmAOmqk6BOZP7oEiotzes6nB0ml26hd2wpUzjfvOByWJYR+NBv1J3QVlKBWV5BAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/Sayonic54-53.delta" sparkle:deltaFrom="53" length="1315802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H+z3yJtzIyvdihZrQ7WTTLLdYncFBDzAzsK+F1Rr2KQxX+qvU4rHt9+GxJYZIHDgIxAmyiPdtrA3ZBEwi3Q3AQ=="/>
-                <enclosure url="https://github.com/expertguy/VoiceHand-Updates/releases/download/updates/Sayonic54-52.delta" sparkle:deltaFrom="52" length="14632506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3B6lTn07Eg2UwS4alIlw4RgDZtpOM727iURWWlc6r+yCSR3YX95az7Eofet/KfNyTBoMUOHH1rCXkLtCoubADw=="/>
             </sparkle:deltas>
         </item>
     </channel>
